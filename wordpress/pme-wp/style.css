@@ -1,0 +1,15 @@
+/*
+	Theme Name: pme-wp
+	Theme URI: http://dapeng.me
+	Description: 使用bootstrap框架制作。
+	Author: dapeng
+	Author URI: http://dapeng.me
+	Version: 0.1
+	
+	License: GNU General Public License version 3.0
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+
+*/
+.comments-nums a{
+	color: #fff;
+}
